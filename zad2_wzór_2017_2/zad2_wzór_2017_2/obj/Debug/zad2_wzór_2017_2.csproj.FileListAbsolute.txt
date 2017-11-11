@@ -1,0 +1,9 @@
+C:\Users\magda\Desktop\Madzia\PWr\CPC\zad2_wzór_2017_2\zad2_wzór_2017_2\bin\Debug\zad2_wzór_2017_2.exe.config
+C:\Users\magda\Desktop\Madzia\PWr\CPC\zad2_wzór_2017_2\zad2_wzór_2017_2\obj\Debug\zad2_wzór_2017_2.csprojResolveAssemblyReference.cache
+C:\Users\magda\Desktop\Madzia\PWr\CPC\zad2_wzór_2017_2\zad2_wzór_2017_2\obj\Debug\zad2_wzór_2017_2.FormHorses.resources
+C:\Users\magda\Desktop\Madzia\PWr\CPC\zad2_wzór_2017_2\zad2_wzór_2017_2\obj\Debug\zad2_wzór_2017_2.Properties.Resources.resources
+C:\Users\magda\Desktop\Madzia\PWr\CPC\zad2_wzór_2017_2\zad2_wzór_2017_2\obj\Debug\zad2_wzór_2017_2.csproj.GenerateResource.Cache
+C:\Users\magda\Desktop\Madzia\PWr\CPC\zad2_wzór_2017_2\zad2_wzór_2017_2\bin\Debug\zad2_wzór_2017_2.exe
+C:\Users\magda\Desktop\Madzia\PWr\CPC\zad2_wzór_2017_2\zad2_wzór_2017_2\bin\Debug\zad2_wzór_2017_2.pdb
+C:\Users\magda\Desktop\Madzia\PWr\CPC\zad2_wzór_2017_2\zad2_wzór_2017_2\obj\Debug\zad2_wzór_2017_2.exe
+C:\Users\magda\Desktop\Madzia\PWr\CPC\zad2_wzór_2017_2\zad2_wzór_2017_2\obj\Debug\zad2_wzór_2017_2.pdb
